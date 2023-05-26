@@ -13,7 +13,7 @@
       "PlayerArray":"0x02A0",
       "PawnPrivate":"0x300",
       "TeamIndex":"0x10B8",
-      "CurrentWeapon":"0x908"
+      "CurrentWeapon":"0x908",
       "bIsReloadingWeapon":"0x348",
       "AmmoCount":"0xBD4",
       "WeaponData":"0x410",
