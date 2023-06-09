@@ -1,7 +1,7 @@
 {
    "offsets":{
-      "UWorld":"0x102f69d8",
-      "ViewPoint":"0x10212160",
+      "UWorld":"0xF1ADD68",
+      "ViewPoint":"0xF0D7A50",
       "Gameinstance":"0x1b8",
       "LocalPlayers":"0x38",
       "PlayerController":"0x30",
@@ -15,8 +15,8 @@
       "TeamIndex":"0x10B8",
       "CurrentWeapon":"0x908",
       "bIsReloadingWeapon":"0x348",
-      "AmmoCount":"0xBD4",
-      "WeaponData":"0x410",
+      "AmmoCount":"0xBF4",
+      "WeaponData":"0x430",
       "ItemType":"0x70",
       "DisplayName":"0x98",
       "FText":"0x38",
@@ -28,6 +28,8 @@
       "isDBNO":"0x832",
       "BoneArray":"0x5f0",
       "pNameStructure":"0xAC8",
-      "ComponetToWorld":"0x240"
+      "ComponetToWorld":"0x240",
+      "PawnMaterials_ALL":"0x55d0",
+      "Wireframe":"0x194"      
    }
 }
