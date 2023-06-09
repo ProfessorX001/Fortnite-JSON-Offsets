@@ -27,7 +27,7 @@
       "bIsDying":"0x710",
       "isDBNO":"0x832",
       "BoneArray":"0x600",
-      "pNameStructure":"0xAC0",
+      "pNameStructure":"0xAC8",
       "ComponentToWorld":"0x240",
       "PawnMaterials_ALL":"0x55d0",
       "Wireframe":"0x194"      
