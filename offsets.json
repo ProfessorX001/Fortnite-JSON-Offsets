@@ -7,7 +7,7 @@
       "PlayerController":"0x30",
       "LocalPawn":"0x330",
       "PlayerState":"0x2A8",
-      "RootComponet":"0x190",
+      "RootComponent":"0x190",
       "RelativeLocation":"0x128",
       "GameState":"0x158",
       "PlayerArray":"0x02A0",
