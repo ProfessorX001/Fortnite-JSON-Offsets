@@ -1,4 +1,8 @@
-# Fortnite-Offsets
-This repository is for retreiving JSON data (in this case fortnite offsets) 
+# Fortnite-Offsets 
 
-The offsets will always be up to date with the latest Fortnite version.
+`Fortnite-Offsets` is your go-to repository for up-to-date `Fortnite` memory offsets. 
+
+- 💡 **Up-to-date Offsets:** Synced with the latest Fortnite versions.
+- 📁 **Accessible Format:** Packaged neatly in a JSON format. 
+
+Ideal for developers, modders, or enthusiasts exploring game engineering. Please adhere to `Epic Games' terms and conditions` when using this data
