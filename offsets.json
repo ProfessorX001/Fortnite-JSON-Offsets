@@ -5,7 +5,7 @@
       "Gameinstance":"0x1b8",
       "LocalPlayers":"0x38",
       "PlayerController":"0x30",
-      "LocalPawn":"0x338",
+      "AcknowledgedPawn":"0x338",
       "PlayerState":"0x2b0",
       "RootComponent":"0x198",
       "RelativeLocation":"0x128",
